@@ -1,0 +1,40 @@
+[
+{
+"orderNumber": 12321,
+"orderDate": "22-11-2022",
+"overallOrderStatus": "shipped",
+"courier": "UPS",
+"items": [
+{
+"itemNo": 1,
+"productDetails": [
+{
+"Brand": "Samsung",
+"Item": "Galaxy",
+"price": 10.35 €,
+"Size": "32 GB",
+"Color": "Black",
+"url": "https://www.sunrise.ch/en/residential/geraete/tablets.primaryproductimage.code-U2Ftc3VuZyBHYWxheHkgVGFiIEE4IExURSBQYXJlbnQ.format-teaser-xl.png"
+}
+]
+},
+{
+"itemNo": 2,
+"productDetails": [
+{
+"Brand": "Samsung",
+"Item": "Galaxy",
+"price": 27.85 €,
+"Size": "64 GB",
+"Color": "Silver",
+"url": "https://www.sunrise.ch/en/residential/geraete/tablets.primaryproductimage.code-aVBhZCAxMC45IiA2NEdCIENlbGx1bGFyICgyMDIyKSBQYXJlbnQ.format-teaser-xl.png"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
